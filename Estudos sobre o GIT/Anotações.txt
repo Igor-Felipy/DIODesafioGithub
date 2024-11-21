@@ -1,0 +1,28 @@
+* Entendendo o que é git e sua importancia
+- Criado por Linus torvald para gerenciar o linux
+
+* Comandos basicos para um bom desempenho no terminal
+- Windows | Unix
+-- cd | cd
+-- dir | ls
+-- mkdir | mkdir
+-- del / rmdir | rm -rf
+
+* Realizando a instalação do GIT
+
+* Tópicos fundamentais para entender o funcionamento do GIT
+
+* Objetos unternos do GIT
+- Blobs
+- Trees
+- Commits
+
+* Chave SSH e Token
+
+* Iniciando o GIT e criando um commit
+
+* Passo a passo no ciclo de vida 
+
+* Trabalhando com GitHub
+
+* Como os conflitos acontecem no GitHub e como resolvê-los
